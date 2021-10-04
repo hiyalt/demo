@@ -1,4 +1,4 @@
-# < style color = "red">DEMO PR0JECT< /style> 
+# DEMO PR0JECT
 This is simple readme file
 
 # Heading1
